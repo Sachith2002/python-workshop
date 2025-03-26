@@ -1,6 +1,5 @@
-x=int(input("enter number"))
-y=int(input("enter number"))
-z=x+y
-w=z/2
-print(w)
-
+num=1
+while(num<=100):
+    print(num)
+    num=num+2
+    
