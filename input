@@ -1,0 +1,6 @@
+# num=int(input("enter your number: "))
+# print(num)
+
+name=str(input("Enter Your Name:"))
+print(name)
+
